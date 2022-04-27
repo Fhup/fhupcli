@@ -15,3 +15,5 @@ fhupcli addpage page_name [-d your_path]
 ```
 fhupcli addstore store_name [-d your_path]
 ```
+
+> Know the truth and be truly free
